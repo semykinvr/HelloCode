@@ -1,4 +1,4 @@
-﻿// УМНОЖЕНИЕ ДВУХ ЧИСЕЛ
+﻿// ДЕЛЕНИЕ ДВУХ ЧИСЕЛ
 Console.WriteLine("Hello, World!"); 
 double numberA = 12; 
 double numberB = 5; 
